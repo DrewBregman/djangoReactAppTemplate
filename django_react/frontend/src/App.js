@@ -44,7 +44,7 @@ function NavItem(props) {
 
   return (
     <li className="nav-item">
-      <a href="#" className="icon-button" onClick={() => setOpen(!open)}>
+      <a href="" className="icon-button" onClick={() => setOpen(!open)}>
         {props.icon}
       </a>
 
